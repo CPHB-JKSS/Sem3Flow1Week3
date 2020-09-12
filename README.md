@@ -7,7 +7,7 @@ Email: &nbsp;&nbsp;&nbsp;&nbsp;cph-js437@cphbusiness.dk
 ## 01_Monday
 * (travisGettingStarted) Getting Started with Travis and CI (completed)
 * (maven-1) REST,JPA, Test and CI with our start code (completed)
-    * [https://jkss.dk/devops-starter/](https://jkss.dk/devops-starter/)
+    * [https://jkss.dk/devops-starter/](https://jkss.dk/devops-starter/) (index.html not showing properly - check code)
 ## 02_Tuesday
 * Testing REST Endpoints (Started, not completed)
 
